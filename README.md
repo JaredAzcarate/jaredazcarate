@@ -4,10 +4,10 @@
 I build digital products from idea to deployment at [WROWSTUDIO](https://www.wrowstudio.com/)  
 
 ```ts
-// Let me explain it as a function
+// This is how I build digital products
 function buildProduct() {
   const discovery = "understand the problem";
-  const design = "design the experience";
+  const design = "shape the experience";
   const development = "build scalable systems";
   const delivery = "deploy and iterate";
 
@@ -15,7 +15,7 @@ function buildProduct() {
 }
 ```
 
-### Stacks
+### Product Stack
 | Product Phase | Focus                                       | Stack                                                            |
 | ------------- | ------------------------------------------- | ---------------------------------------------------------------- |
 | Discovery     | Product thinking · Research · Structure     | Linear · Notion · Figma                                          |

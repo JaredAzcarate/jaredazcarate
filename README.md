@@ -20,7 +20,7 @@ function buildProduct() {
 | ------------- | ------------------------------------------- | ---------------------------------------------------------------- |
 | Discovery     | Product thinking · Research · Structure     | Linear · Notion · Figma                                          |
 | Design        | UX/UI · Systems · Branding · Interaction    | Figma · Framer · Adobe Suite · Affinity                          |
-| Development   | Frontend · Backend · Architecture           | React · Next.js · Astro · Tailwind · Ant Design · Node · Express |
+| Development   | Frontend · Backend · Architecture           | Javascript · React · Next.js · Astro · Tailwind · Ant Design · Node · Express |
 | Motion        | Micro-interactions · Animation · Experience | Framer Motion · GSAP · Motion                                    |
 | Data          | State · Validation · Data flow              | TanStack (Query, Form, Table) · Zod                              |
 | Database      | Data modeling · Storage                     | PostgreSQL · MongoDB · Neon                                      |

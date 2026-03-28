@@ -1,7 +1,7 @@
 # Hi, I'm Jared
 
 ### About me
-I build digital products from idea to deployment at [WROWSTUDIO](https://www.wrowstudio.com/)  
+I build digital products from idea to deployment at [WROW Studio](https://www.wrowstudio.com/)  
 
 ```ts
 // This is how I build digital products
